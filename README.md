@@ -1,14 +1,11 @@
 ## Investigating and predicting use of the TfL Cycle Hire Scheme
 
-```markdown
-
 You can use the [editor on GitHub](https://github.com/intp8/bb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 [testest](intp8.com)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master?filepath=Primary%20Notebooks)
 
-```
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
