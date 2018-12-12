@@ -1,4 +1,4 @@
-## Investigating and predicting use of and demand for the TfL Cycle Hire Scheme
+## Investigating and predicting use of the TfL Cycle Hire Scheme
 
 You can use the [editor on GitHub](https://github.com/intp8/bb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
