@@ -24,7 +24,7 @@ Summary of the notebooks in the root directory:
 
 It may take a minute or so to build the repo for interactivity.
 
-All of the collated data required for the primary notebooks is in the **data** directory. 
+All of the collated data required for the primary notebooks is in the **[data](/data)** directory. 
 
 ### Data search and collation
 
