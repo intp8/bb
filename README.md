@@ -24,7 +24,7 @@ Summary of the notebooks in the root directory:
 
 It may take a minute or so to build the repo for interactivity.
 
-All of the collated data required for the primary notebooks is in the **[data](/data)** directory. 
+All of the collated data required for the primary notebooks is in the **[data](https://github.com/intp8/boris-bikes/tree/master/data)** directory. 
 
 ### Data search and collation
 
@@ -42,7 +42,7 @@ The original datasets came from various sources found online, including:
 
 [Holiday Calendars](https://www.feiertagskalender.ch/)
 
-Some cleaning and basic editing of a few of the files was carried out in spreadsheets. Subsequently the notebooks in the **[data-prep](/data-prep)** directory have been run to produce the collated output in the **[data](/data)** directory used by the primary notebooks. 
+Some cleaning and basic editing of a few of the files was carried out in spreadsheets. Subsequently the notebooks in the **[data-prep](https://github.com/intp8/boris-bikes/tree/master/data-prep)** directory have been run to produce the collated output in the **[data](https://github.com/intp8/boris-bikes/tree/master/data)** directory used by the primary notebooks. 
 
 I hope to automate the collection and cleaning of the raw data or provide instructions so that the process can be repproduced in full and updated periodically. 
 
