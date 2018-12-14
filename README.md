@@ -1,8 +1,8 @@
-## Investigating and predicting use of the TfL Cycle Hire Scheme
 
-### Project undertaken while studying Data Science at General Assembly, London.
 
-#### Primary notebooks
+#### Project undertaken while studying Data Science at General Assembly, London.
+
+### Primary notebooks
 
 Summary of the notebooks in the root directory:
 - Long-term London trends
@@ -15,11 +15,11 @@ It may take a minute or so to build the repo for interactivity.
 
 All of the collated data required for the primary notebooks is in the **data** directory. 
 
-#### Data search and collation
+### Data search and collation
 
 The original datasets came from various sources found online, including:
 
-[https://data.london.gov.uk/] (London Datastore)
+[https://data.london.gov.uk/](London Datastore)
 
 [https://api.tfl.gov.uk/] (TfL API)
 
