@@ -5,7 +5,18 @@
 ### Primary notebooks
 
 Summary of the notebooks in the root directory:
-- Long-term London trends
+
+##### Long-term London transport trends
+- Exploratory analysis of the growth in use of various modes of transport since 2000
+- Overview of changes to the population, fuel prices and air pollution
+
+##### Detailed cycle count analysis
+- Comparison of the use patterns of hire and other bicycles throughout the day
+- Overview of the impact of factors such as day of the week and weather on each group
+
+##### Cycle hire and tube use maps
+- Visualisation of the increase in hire bike availability over time
+- Hire bikes docking stations mapped together with tube stations and their level of use
 
 #### These notebooks can be viewed and run via Binder:
 
