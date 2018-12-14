@@ -1,5 +1,3 @@
-
-
 #### Project undertaken while studying Data Science at General Assembly, London.
 
 ### Primary notebooks
@@ -31,16 +29,12 @@ All of the collated data required for the primary notebooks is in the **[data](h
 The original datasets came from various sources found online, including:
 
 [London Datastore](https://data.london.gov.uk/)  
-[TfL API](https://api.tfl.gov.uk/)
-
-[RP5 Weather](https://rp5.ru/)
-
-['What Do They Know' FOI Requests](https://www.whatdotheyknow.com/)
-
-[Her Majesty's Nautical Almanac Office](http://astro.ukho.gov.uk/)
-
+[Transport for London API](https://api.tfl.gov.uk/)  
+[RP5 Weather](https://rp5.ru/)  
+['What Do They Know' FOI Requests](https://www.whatdotheyknow.com/)  
+[Her Majesty's Nautical Almanac Office](http://astro.ukho.gov.uk/)  
 [Holiday Calendars](https://www.feiertagskalender.ch/)
 
-Some cleaning and basic editing of a few of the files was carried out in spreadsheets. Subsequently the notebooks in the **[data-prep](https://github.com/intp8/boris-bikes/tree/master/data-prep)** directory have been run to produce the collated output in the **[data](https://github.com/intp8/boris-bikes/tree/master/data)** directory used by the primary notebooks. 
+Some cleaning and basic editing of a few of the files was carried out in spreadsheets. Subsequently the notebooks in the **[data-prep](https://github.com/intp8/boris-bikes/tree/master/data-prep)** directory have been run to produce the collated output in the **[data](https://github.com/intp8/boris-bikes/tree/master/data)** directory used by the primary notebooks.
 
 I hope to automate the collection and cleaning of the raw data or provide instructions so that the process can be reproduced in full and updated periodically.
