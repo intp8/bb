@@ -20,15 +20,16 @@ All of the collated data required for the primary notebooks is in the **data** d
 The original datasets came from various sources found online, including:
 
 [London Datastore](https://data.london.gov.uk/)
-[https://api.tfl.gov.uk/] (TfL API)
 
-[https://rp5.ru/] (RP5 Weather)
+[TfL API](https://api.tfl.gov.uk/)
 
-[https://www.whatdotheyknow.com/] ('What Do They Know' FOI Requests)
+[RP5 Weather](https://rp5.ru/)
 
-[http://astro.ukho.gov.uk/] (Her Majesty's Nautical Almanac Office)
+['What Do They Know' FOI Requests](https://www.whatdotheyknow.com/)
 
-[https://www.feiertagskalender.ch/] (Holiday Calendars)
+[Her Majesty's Nautical Almanac Office](http://astro.ukho.gov.uk/)
+
+[Holiday Calendars](https://www.feiertagskalender.ch/)
 
 Some cleaning and basic editing of a few of the files was carried out in spreadsheets. Subsequently the notebooks in the **data-prep** directory have been run to produce the collated output in the **data** directory used by the primary notebooks. 
 
