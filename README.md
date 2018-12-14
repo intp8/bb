@@ -37,4 +37,4 @@ Some cleaning and basic editing of a few of the files was carried out in spreads
 
 I hope to automate the collection and cleaning of the raw data or provide instructions so that the process can be reproduced in full and updated periodically.
 
-#### Project undertaken while studying Data Science at [General Assembly, London](https://generalassemb.ly/locations/london).
+*Project undertaken while studying Data Science at [General Assembly, London](https://generalassemb.ly/locations/london).*
