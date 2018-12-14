@@ -42,7 +42,7 @@ The original datasets came from various sources found online, including:
 
 [Holiday Calendars](https://www.feiertagskalender.ch/)
 
-Some cleaning and basic editing of a few of the files was carried out in spreadsheets. Subsequently the notebooks in the **data-prep** directory have been run to produce the collated output in the **data** directory used by the primary notebooks. 
+Some cleaning and basic editing of a few of the files was carried out in spreadsheets. Subsequently the notebooks in the **[data-prep](/data-prep)** directory have been run to produce the collated output in the **[data](/data)** directory used by the primary notebooks. 
 
 I hope to automate the collection and cleaning of the raw data or provide instructions so that the process can be repproduced in full and updated periodically. 
 
