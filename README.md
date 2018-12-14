@@ -7,10 +7,15 @@
 The original datasets came from various sources found online, including:
 
 [https://data.london.gov.uk/](London Datastore)
+
 [https://api.tfl.gov.uk/](TfL API)
+
 [https://rp5.ru/](RP5 Weather)
+
 [https://www.whatdotheyknow.com/]('What Do They Know' FOI Requests)
+
 [http://astro.ukho.gov.uk/](Her Majesty's Nautical Almanac Office)
+
 [https://www.feiertagskalender.ch/](Holiday Calendars)
 
 Some cleaning and basic editing of a few of the files was carried out in spreadsheets. Subsequently the scripts in the **data-prep** directory have been run, to produce the collated output found in the **data** folder. 
