@@ -20,7 +20,6 @@ All of the collated data required for the primary notebooks is in the **data** d
 The original datasets came from various sources found online, including:
 
 [https://data.london.gov.uk/](London Datastore)
-
 [https://api.tfl.gov.uk/] (TfL API)
 
 [https://rp5.ru/] (RP5 Weather)
