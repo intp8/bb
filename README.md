@@ -2,12 +2,22 @@
 
 ### Project undertaken while studying Data Science at General Assembly, London.
 
+#### Primary notebooks
+
+All of the collated data required for the primary notebooks (those in the root directory) is on GitHub in the data folder. 
+
+#### These notebooks can be viewed and run via Binder:
+
+It may take a minute or so to build the repo for interactivity when loading the first one.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master)
+
+
 #### Data search and collation
 
 The original datasets came from various sources found online, including:
 
 [https://data.london.gov.uk/] (London Datastore)
-
 [https://api.tfl.gov.uk/] (TfL API)
 
 [https://rp5.ru/] (RP5 Weather)
@@ -22,12 +32,7 @@ Some cleaning and basic editing of a few of the files was carried out in spreads
 
 I hope to automate the collection and cleaning of the raw data or provide instructions so that the process can be replicated in full. 
 
-For now, all of the collated data required for the primary notebooks (those in the root directory) is on GitHub in the data folder. 
 
-### These notebooks can be viewed and run via Binder:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master?filepath=Long-term%20London%20transport%20trends.ipynb)
 
-##### This may take a minute or so to build.
