@@ -28,4 +28,6 @@ For now, all of the collated data required for the primary notebooks (those in t
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master?filepath=Long-term%20London%20transport%20trends.ipynb)
+
 ##### This may take a minute or so to build.
