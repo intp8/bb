@@ -1,42 +1,28 @@
 ## Investigating and predicting use of the TfL Cycle Hire Scheme
 
-You can use the [editor on GitHub](https://github.com/intp8/bb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Project undertaken while studying Data Science at General Assembly, London.
 
-[testest](intp8.com)
+#### Data search and collation
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master?filepath=Primary%20Notebooks)
+The original datasets came from various sources found online, including:
 
+[https://data.london.gov.uk/](London Datastore)
+[https://api.tfl.gov.uk/](TfL API)
+[https://rp5.ru/](RP5 Weather)
+[https://www.whatdotheyknow.com/]('What Do They Know' FOI Requests)
+[http://astro.ukho.gov.uk/](Her Majesty's Nautical Almanac Office)
+[https://www.feiertagskalender.ch/](Holiday Calendars)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some cleaning and basic editing of a few of the files was carried out in spreadsheets. Subsequently the scripts in the **data-prep** directory have been run, to produce the collated output found in the **data** folder. 
 
-### Markdown
+I hope to automate the collection and cleaning of the raw data or provide instructions so that the process can be replicated in full. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For now, all of the collated data required for the primary notebooks (those in the root directory) is on GitHub in the data folder. 
 
-```markdown
-Syntax highlighted code block
+### These notebooks can be viewed and run via Binder:
 
-# Header 1
-## Header 2
-### Header 3
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master)
 
-- Bulleted
-- List
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master?filepath=https%3A%2F%2Fhub.mybinder.org%2Fuser%2Fintp8-bb-g8ppqblw%2Fnotebooks%2FLong-term%20London%20transport%20trends.ipynb)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/intp8/bb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### This may take a minute or so to build.
