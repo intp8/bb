@@ -17,7 +17,7 @@ Summary of the notebooks in the root directory:
 ##### Daily hire bike usage modelling
 - Predictive modelling of daily hire bike use levels via linear regression
 - Comparison of models using features whose values are known well in advance and those which include features less easy to quantify until soon before or on the day
-- Exploration of more recent trends such as the increase in dockless hire bikes from other providers
+- Exploration of more recent trends such as the increase in dockless hire bikes
 
 #### These notebooks can be viewed and run via Binder:
 
