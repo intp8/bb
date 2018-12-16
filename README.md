@@ -14,6 +14,11 @@ Summary of the notebooks in the root directory:
 - Visualisation of the increase in hire bike availability over time
 - Hire bikes docking stations mapped together with tube stations and their level of use
 
+##### Daily hire bike usage modelling
+- Predictive modelling of daily hire bike use levels via linear regression
+- Comparison of models using features whose values are known well in advance and those which include features less easy to quantify until soon before or on the day
+- Exploration of more recent trends such as the increase in dockless hire bikes from other providers
+
 #### These notebooks can be viewed and run via Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master)
