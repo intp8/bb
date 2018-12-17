@@ -21,7 +21,7 @@ Summary of the notebooks in the root directory:
 
 #### These notebooks can be viewed and run via Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/bb/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intp8/boris-bikes/master)
 
 It may take a minute or so to build the repo for interactivity.
 
