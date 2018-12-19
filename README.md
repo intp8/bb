@@ -1,5 +1,3 @@
-## boris-bikes
-
 ### Primary notebooks
 
 Summary of the notebooks in the root directory:
